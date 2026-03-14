@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni3Uri1021",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1021",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1019",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1019",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1018",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1018",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1016",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1016",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1015",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1015",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1012",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1012",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1010",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1010",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1009",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1009",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1008",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1008",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1007",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1007",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1005",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1005",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
             "name": "Uni3Uri1002",
             "request": "launch",
             "mainClass": "exercícios.Uni3Uri1002",
