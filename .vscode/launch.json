@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni4Ex01",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex01",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
             "name": "Uni3Uri1021",
             "request": "launch",
             "mainClass": "exercicios.Uni3Uri1021",
