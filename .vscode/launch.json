@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni4Ex13",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex13",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex12",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex12",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex11",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex11",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex10",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex10",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex09",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex09",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4ex08",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4ex08",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
             "name": "Uni4Ex07",
             "request": "launch",
             "mainClass": "exercicios.Uni4Ex07",
