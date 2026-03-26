@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni4Ex23",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex23",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex22",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex22",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
             "name": "Uni4Ex21",
             "request": "launch",
             "mainClass": "exercicios.Uni4Ex21",
