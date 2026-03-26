@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni4Ex21",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex21",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex20",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex20",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex19",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex19",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex18",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex18",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex16",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex16",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex15",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex15",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex14",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex14",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex13",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex13",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
             "name": "Uni4Ex13",
             "request": "launch",
             "mainClass": "exercicios.Uni4Ex13",
