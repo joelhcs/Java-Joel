@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni4Ex27",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex27",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex26",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex26",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex25",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex25",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex24",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex24",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
             "name": "Uni4Ex23",
             "request": "launch",
             "mainClass": "exercicios.Uni4Ex23",
