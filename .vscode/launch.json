@@ -1,0 +1,371 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Uni4Uri1050",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Uri1050",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1046",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Uri1046",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1042",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Uri1042",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1041",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Uri1041",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1037",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Uri1037",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Uri1035",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Uri1035",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex27",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex27",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex26",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex26",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex25",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex25",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex24",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex24",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex23",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex23",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex22",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex22",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex21",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex21",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex20",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex20",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex19",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex19",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex18",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex18",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex16",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex16",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex15",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex15",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex14",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex14",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex13",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex13",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex13",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex13",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex12",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex12",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex11",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex11",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex10",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex10",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex09",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex09",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4ex08",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4ex08",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex07",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex07",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex06",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex06",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex5",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex5",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex4",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex4",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "uni4Ex4",
+            "request": "launch",
+            "mainClass": "exercicios.uni4Ex4",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex03",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex03",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex02",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex02",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex01",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex01",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni4Ex01",
+            "request": "launch",
+            "mainClass": "exercicios.Uni4Ex01",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1021",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1021",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1019",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1019",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1018",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1018",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1016",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1016",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1015",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1015",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1012",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1012",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1010",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1010",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1009",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1009",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1008",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1008",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1007",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1007",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1005",
+            "request": "launch",
+            "mainClass": "exercicios.Uni3Uri1005",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1002",
+            "request": "launch",
+            "mainClass": "exercícios.Uni3Uri1002",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Uni3Uri1001",
+            "request": "launch",
+            "mainClass": "exercícios.Uni3Uri1001",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "Ex21",
+            "request": "launch",
+            "mainClass": "exercícios.Ex21",
+            "projectName": "Java-Joel_47fe47a3"
+        },
+        {
+            "type": "java",
+            "name": "Ex20",
+            "request": "launch",
+            "mainClass": "exercícios.Ex20",
+            "projectName": "Java-Joel_47fe47a3"
+        },
+        {
+            "type": "java",
+            "name": "Ex19",
+            "request": "launch",
+            "mainClass": "exercícios.Ex19",
+            "projectName": "Java-Joel_47fe47a3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
