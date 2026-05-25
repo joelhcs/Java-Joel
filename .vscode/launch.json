@@ -6,6 +6,272 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Uni7Exe05",
+            "request": "launch",
+            "mainClass": "exercicios.Uni7Exe05",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni7Exe03",
+            "request": "launch",
+            "mainClass": "exercicios.Uni7Exe03",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni7Exe02",
+            "request": "launch",
+            "mainClass": "exercicios.Uni7Exe02",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe08",
+            "request": "launch",
+            "mainClass": "exercicios.Uni6Exe08",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe07",
+            "request": "launch",
+            "mainClass": "exercicios.Uni6Exe07",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni6Exe06",
+            "request": "launch",
+            "mainClass": "exercicios.Uni6Exe06",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe32",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe32",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe31",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe31",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe30",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe30",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe29",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe29",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe28",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe28",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe27",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe27",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe26",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe26",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe25",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe25",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe24",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe24",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe23",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe23",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe22",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe22",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe21",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe21",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe20",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe20",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe19",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe19",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe18",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe18",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe17",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe17",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe16",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe16",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe15",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe15",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe14",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe14",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe13",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe13",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe12",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe12",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe11",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe11",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe10",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe10",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe09",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe09",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe08",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe08",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe07",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe07",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe06",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe06",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe05",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe05",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe04",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe04",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe03",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe03",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe02",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe02",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Uni5Exe01",
+            "request": "launch",
+            "mainClass": "exercicios.Uni5Exe01",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
             "name": "Uni4Uri1050",
             "request": "launch",
             "mainClass": "exercicios.Uni4Uri1050",
