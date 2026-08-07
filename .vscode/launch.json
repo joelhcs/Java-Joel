@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "exercicios_semestre2.lista01.questao04.App",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "exercicios_semestre2.lista01.questao03.App",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "exercicios_semestre2.lista01.questao02.App",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "exercicios_semestre2.lista01.questao01.App",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "CineCampus",
+            "request": "launch",
+            "mainClass": "trabalho_final.CineCampus",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "Aluno",
+            "request": "launch",
+            "mainClass": "exercicios.Aluno",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
             "name": "Uni7Exe05",
             "request": "launch",
             "mainClass": "exercicios.Uni7Exe05",
