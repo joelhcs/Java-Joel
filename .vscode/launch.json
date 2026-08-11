@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AppConstrutores",
+            "request": "launch",
+            "mainClass": "exercicios_semestre2.lista01.AppConstrutores",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "exercicios_semestre2.App",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
+            "name": "AppConta",
+            "request": "launch",
+            "mainClass": "exercicios_semestre2.AppConta",
+            "projectName": "Java-Joel_aab359ec"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "exercicios_semestre2.lista01.questao04.App",
