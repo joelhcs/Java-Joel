@@ -8,6 +8,13 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "exercicios_semestre2.sonora_fase01.App",
+            "projectName": "Java Joel_ad6c2953"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "exercicios_semestre2.lista02.questao03.App",
             "projectName": "Java Joel_ad6c2953"
         },
