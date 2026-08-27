@@ -26,13 +26,14 @@ public class App {
             System.out.println("7 - Listar acervo");
             System.out.println("0 - Sair");
 
-            if (sc.hasNextInt()) {
-                opcao = sc.nextInt();
-                sc.nextLine();
-            } else {
-                System.out.println("Digite uma opção válida.");
-                sc.next();
-                opcao = -1;
+            while (true) {
+                try {
+                    System.out.println("Escolha uma opção: ");
+                    opcao = Integer.parseInt(sc.nextLine());
+                    break;
+                } catch (NumberFormatException e) {
+                    System.out.println("Valor inválido. Digite um número.");
+                }
             }
 
             switch (opcao) {
@@ -44,16 +45,17 @@ public class App {
                     String artista = sc.nextLine();
 
                     System.out.println("Duração em segundos: ");
-                    int duracao = sc.nextInt();
-                    sc.nextLine();
+                    int duracao = Integer.parseInt(sc.nextLine());
+                    
 
+                    try {
                     Musica musica = new Musica(titulo, artista, duracao);
 
-                    if (plataforma.cadastrarMusica(musica)) {
+                    plataforma.cadastrarMusica(musica);
                         System.out.println("Música cadastrada com sucesso!");
                         System.out.println("ID: " + musica.getId());
-                    } else {
-                        System.out.println("Não foi possível cadastrar a música.");
+                    } catch (IllegalArgumentException e) {
+                        System.out.println("Não foi possível cadastrar: " + e.getMessage());
                     }
                     break;
             
@@ -150,17 +152,20 @@ public class App {
 
                 case 6:
                     System.out.println("Digite o ID da música: ");
-                    int idReproducao = sc.nextInt();
-                    sc.nextLine();
+                    try {
+                        int idReproducao = Integer.parseInt(sc.nextLine());
 
-                    Musica musicaReproduzir = plataforma.buscarMusicaPorId(idReproducao);
+                        Musica musicaReproduzir = plataforma.buscarMusicaPorId(idReproducao);
 
-                    if (musicaReproduzir == null) {
-                        System.out.println("Música não encontrada.");
-                    } else {
                         musicaReproduzir.reproduzir();
                         System.out.println("Reproduzindo: " + musicaReproduzir.getTitulo());
                         System.out.println("Reproduções: " + musicaReproduzir.getReproducoes());
+                    } catch (NumberFormatException e) {
+                        System.out.println("A posição precisa ser um número.");
+                    } catch (IndexOutOfBoundsException e) {
+                        System.out.println("Essa posição não existe na plataforma.");
+                    } catch(NullPointerException e) {
+                        System.out.println("Posição está nula.");
                     }
 
                     break;
