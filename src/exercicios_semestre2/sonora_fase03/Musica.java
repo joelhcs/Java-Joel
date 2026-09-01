@@ -1,4 +1,4 @@
-package exercicios_semestre2.sonora_fase02;
+package exercicios_semestre2.sonora_fase03;
 
 public class Musica {
     
