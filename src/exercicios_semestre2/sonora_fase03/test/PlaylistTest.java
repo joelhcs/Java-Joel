@@ -83,4 +83,46 @@ public class PlaylistTest {
         assertThrows(IndexOutOfBoundsException.class, () -> playlist.getNaPosicao(1));
 
    }
+
+   @Test
+   @DisplayName("Remover música de uma posição válida")
+   public void removerPosicaoValida() {
+        playlist.adicionar(musica);
+
+        Musica segundaMusica = new Musica("Billie Jean", "Michael Jackson", 294);
+        playlist.adicionar(segundaMusica);
+
+        boolean resultado = playlist.removerNaPosicao(1);
+
+        assertTrue(resultado);
+        assertEquals(1, playlist.getQuantidade());
+    }
+
+    @Test
+    @DisplayName("Verificar reorganização após remoção")
+    public void verificarReorganizacao() {
+        playlist.adicionar(musica);
+
+        Musica segundaMusica = new Musica("Billie Jean", "Michael Jackson", 294);
+        playlist.adicionar(segundaMusica);
+        Musica musicaExtra = new Musica("Música extra", "Artista extra", 100);
+        playlist.adicionar(musicaExtra);
+
+        playlist.removerNaPosicao(1);
+
+        assertEquals(musicaExtra, playlist.getNaPosicao(1));
+    }
+
+    @Test
+    @DisplayName("Remover música com índice inválido")
+    public void removerIndiceInvalido() {
+        playlist.adicionar(musica);
+
+        Musica segundaMusica = new Musica("Billie Jean", "Michael Jackson", 294);
+        playlist.adicionar(segundaMusica);
+        Musica musicaExtra = new Musica("Música extra", "Artista extra", 100);
+        playlist.adicionar(musicaExtra);
+
+        assertThrows(IndexOutOfBoundsException.class, () -> playlist.removerNaPosicao(-1));
+    }
 }
